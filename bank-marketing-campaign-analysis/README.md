@@ -2,42 +2,39 @@
 
 ## Overview
 
-This project analyzes a bank marketing dataset to understand customer behavior and identify factors influencing term deposit subscription. The focus is on extracting insights through data analysis and basic machine learning techniques.
+This project analyzes a bank marketing dataset to understand customer behavior and identify factors influencing term deposit subscription.
 
 ## Objective
 
-* Analyze customer data and campaign performance
-* Identify patterns affecting term deposit subscription
-* Understand key factors like age, job, balance, and contact method
+* Understand customer demographics and financial patterns
+* Analyze the impact of marketing campaigns
+* Identify key factors affecting subscription decisions
 
 ## Work Done
 
 * Data cleaning and preprocessing
 * Exploratory Data Analysis (EDA)
-* Visualization of customer trends and patterns
+* Visualization of trends (age, job, balance, etc.)
 * Correlation analysis between features
-* Basic machine learning application for insights
 
 ## Tools & Technologies
 
 * Python
 * pandas, numpy
 * matplotlib, seaborn
-* scikit-learn
 
 ## Key Insights
 
-* Customer demographics significantly influence subscription decisions
-* Certain job types and account balances show higher conversion rates
-* Marketing strategies like contact type and timing impact outcomes
+* Customer demographics influence subscription likelihood
+* Account balance and job type affect decisions
+* Marketing strategies (contact type, timing) impact outcomes
 
 ## Learning Outcome
 
 * Gained hands-on experience in data cleaning and EDA
-* Improved ability to interpret real-world datasets
-* Understood how data-driven insights support business decisions
+* Improved data visualization and interpretation skills
+* Understood how data analysis supports business decisions
 
 ## Note
 
 This project was completed as part of foundational data science training and focuses on building core analytical skills.
-
